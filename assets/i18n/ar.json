@@ -1,0 +1,110 @@
+{
+  "app": {
+    "title": "واجهة مختبر الأبحاث",
+    "welcome": "مرحباً بك في منصة مختبر الأبحاث",
+    "logoTitleAr": "مركز دعم اتخاذ القرار",
+    "logoTitleEn": "DECISION SUPPORT CENTER",
+    "copyright": "جميع الحقوق محفوظة © 2026"
+  },
+  "layout": {
+    "header": {
+      "home": "الرئيسية",
+      "studies": "الدراسات",
+      "tasks": "المهام",
+      "dashboard": "لوحة التحكم",
+      "login": "تسجيل الدخول",
+      "logout": "تسجيل الخروج",
+      "notifications": "الإشعارات",
+      "profile": "الملف الشخصي",
+      "menuToggle": "فتح القائمة",
+      "closeMenu": "إغلاق القائمة",
+      "userRole": "باحث"
+    },
+    "sidebar": {
+      "navigation": "التنقل"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "تسجيل الدخول",
+      "username": "اسم المستخدم",
+      "email": "البريد الإلكتروني",
+      "password": "الرقم السري",
+      "rememberMe": "تذكرني",
+      "submit": "الدخول",
+      "noAccount": "ليس لديك حساب؟",
+      "register": "إنشاء حساب جديد"
+    },
+    "register": {
+      "title": "إنشاء حساب",
+      "name": "الاسم الكامل",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "submit": "إنشاء الحساب",
+      "haveAccount": "لديك حساب بالفعل؟",
+      "login": "تسجيل الدخول"
+    }
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "cardsTitle": "إحصائيات سريعة",
+    "tableTitle": "قائمة الدراسات"
+  },
+  "home": {
+    "title": "الرئيسية",
+    "description": "ابدأ ببناء واجهة مختبر الأبحاث الخاصة بك."
+  },
+  "studies": {
+    "heading": "الدراسات",
+    "newStudy": "دراسة جديدة",
+    "searchPlaceholder": "البحث",
+    "loadError": "تعذر تحميل الدراسات. تحقق من الاتصال أو وضع المحاكاة.",
+    "empty": "لا توجد دراسات مطابقة.",
+    "action": {
+      "open": "عرض الدراسة"
+    },
+    "tabs": {
+      "active": "الدراسات الفعالة",
+      "planned": "الدراسات المخطط لها"
+    },
+    "filter": {
+      "stage": "المرحلة",
+      "status": "الحالة",
+      "all": "الكل"
+    },
+    "col": {
+      "title": "الدراسة",
+      "dates": "تاريخ البدء والانتهاء",
+      "owner": "مالك الدراسة",
+      "source": "مصدر الدراسة",
+      "priority": "الأولوية",
+      "type": "نوع الدراسة",
+      "status": "الحالة",
+      "stage": "المرحلة",
+      "task": "المهمة",
+      "action": "الإجراء"
+    },
+    "priority": {
+      "high": "عالية",
+      "medium": "متوسطة",
+      "low": "منخفضة"
+    },
+    "status": {
+      "in_progress": "قيد التنفيذ",
+      "late": "متأخرة",
+      "completed": "مكتملة"
+    }
+  },
+  "pagination": {
+    "ariaLabel": "ترقيم الصفحات",
+    "prev": "السابق",
+    "next": "التالي"
+  },
+  "errors": {
+    "network": "حدث خطأ في الاتصال بالشبكة.",
+    "unauthorized": "انتهت صلاحية الجلسة، يرجى تسجيل الدخول مرة أخرى.",
+    "unknown": "حدث خطأ غير متوقع."
+  }
+}
+
